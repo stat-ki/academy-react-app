@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+This is a repository for learning React.js
+
+## Link
+<a href="https://avinton.com/academy/webapp-with-node-react-2/">Avinton NodeJSでWebアプリケーション開発 – React編</a>
 
 ## Available Scripts
 
